@@ -1,0 +1,5 @@
+This is the second file
+In the previous excercise (of creating a repository from shell/command line) before pushing, the following warning was issued
+Before commiting this Repository2, the following warnig was issued
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
